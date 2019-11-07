@@ -33,7 +33,7 @@ NOTE: Your free AWS account comes with a default VPC and we’re going to create
 
 Pit Stop Topic
 
-CICR Ranges:
+CIDR Ranges:
 /x is the size of the bytes - the smaller the number the more IP’s you can have
 Octets - helps us determine our subnet IP ranges
 Task:
