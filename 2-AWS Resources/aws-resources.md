@@ -2,22 +2,22 @@
 
 Descriptions and Examples for the following AWS Resources:
 
-Virtual Private Cloud (VPC)
-CIDR Range
-Subnets
-Internet Gateway (IGW)
-NAT Gateway
-Direct Connect/VPN
-VPC Peering
-Route Table
-Network Access Control List (NACL)
+- Virtual Private Cloud (VPC)
+- CIDR Range
+- Subnets
+- Internet Gateway (IGW)
+- NAT Gateway
+- Direct Connect/VPN
+- VPC Peering
+- Route Table
+- Network Access Control List (NACL)
 
 
 
 <details><summary>What is a VPC?</summary><p>
 
 ### Here's a short list of areas in your career where good whiteboarding skills are really helpful:
-
+![VPC](images/vpc-icon.svg)
 - Virtual Private Cloud
 - Create a virtual networking environment
 - Isolated section of your AWS services - keeps your stuff contained
@@ -53,11 +53,16 @@ Pending Input
 
 <details><summary>What is an Internet Gateway?</summary><p>
 
+![IGW](images/igw-icon.svg)
+
+
 Pending Input
 
 </p></details>
 
 <details><summary>What is a NAT Gateway?</summary><p>
+
+![NAT](images/nat-icon.svg)
 
 Pending Input
 
@@ -65,11 +70,15 @@ Pending Input
 
 <details><summary>What is a Direct Connect/VPN?</summary><p>
 
+![DirectConnect](images/direct-connect-icon.svg)
+
 Pending Input
 
 </p></details>
 
 <details><summary>What is VPC Peering?</summary><p>
+
+![Peering](images/vpc-peering-icon.svg)
 
 Pending Input
 
@@ -77,11 +86,15 @@ Pending Input
 
 <details><summary>What is a Route Table?</summary><p>
 
+![Router](images/router-icon.svg)
+
 Pending Input
 
 </p></details>
 
 <details><summary>What is a NACL?</summary><p>
+
+![NACL](images/nacl-icon.svg)
 
 Pending Input
 
