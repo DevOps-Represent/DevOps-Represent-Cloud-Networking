@@ -1,5 +1,16 @@
 # AWS Resources Used in Cloud Networking
 
+Descriptions and Examples for the following AWS Resources:
+
+Virtual Private Cloud (VPC)
+CIDR Range
+Subnets
+Internet Gateway (IGW)
+NAT Gateway
+Direct Connect/VPN
+VPC Peering
+Route Table
+Network Access Control List (NACL)
 
 
 
@@ -28,20 +39,54 @@ NOTE: Your free AWS account comes with a default VPC and we’re going to create
 </p></details>
 
 
+<details><summary>What is a CIDR Range?</summary><p>
+
+Pending Input
+
+</p></details>
+
+<details><summary>What are Subnets?</summary><p>
+
+Pending Input
+
+</p></details>
+
+<details><summary>What is an Internet Gateway?</summary><p>
+
+Pending Input
+
+</p></details>
+
+<details><summary>What is a NAT Gateway?</summary><p>
+
+Pending Input
+
+</p></details>
+
+<details><summary>What is a Direct Connect/VPN?</summary><p>
+
+Pending Input
+
+</p></details>
+
+<details><summary>What is VPC Peering?</summary><p>
+
+Pending Input
+
+</p></details>
+
+<details><summary>What is a Route Table?</summary><p>
+
+Pending Input
+
+</p></details>
+
+<details><summary>What is a NACL?</summary><p>
+
+Pending Input
+
+</p></details>
 
 
 
-Pit Stop Topic
 
-CIDR Ranges:
-/x is the size of the bytes - the smaller the number the more IP’s you can have
-Octets - helps us determine our subnet IP ranges
-Task:
-http://cidr.xyz/
-
-
-What is a Subnet? == AZ	
-Can be private/public
-Subset of your VPC
-/16 is the largest for a subnet
-/28 is the smallest for a subnet
