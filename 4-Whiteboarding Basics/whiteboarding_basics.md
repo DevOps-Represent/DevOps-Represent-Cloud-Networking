@@ -29,6 +29,8 @@ EXAMPLE
 #### Handwriting
 Work out what style of hand writing works best for you. Whiteboards don't act the same as a pen and paper. Writing in block letters is clearer than cursive. Remember that sometimes we take pictures of whiteboard discussions to reference later - so they need to be legible. 
 
+![Block letters](images/blockletters.jpg)
+
 Handwriting is terrible? Use more images to demonstrate what you're trying to get across eg. instead of writing 'database', maybe draw the symbol for a data base:
 
 
@@ -40,15 +42,18 @@ Have you left some space for some surprises to be added (external dependencies o
 
 EXAMPLE
 
-#### Use of Words
+#### Use of Words vs Symbols
 Do you find yourself writing a lot of words? Could some of this be substituted for symbols or acroynms? Any commonly used acroynms and their meaning can be documented in the corner for people to reference. This is about knowing your audience.
 
-EXAMPLE
-
-#### Use of Symbols
 Try and keep your symbols simple and consistent. This means you can draw them quickly and the same symbol should be used for correlating components. 
 
 Here are some helpful symbols that you can use in a tech stack or cloud network diagram, some are specific to AWS.
+
+Database
+VPC/Subnet
+'The Internet'
+Lambda
+User
 
 EXAMPLE
 
@@ -59,7 +64,7 @@ Remember to talk through your thoughts as you are drawing. This can be hard to m
 - If you're having to explain your symbols/words more often than not, you may need to revisit your choice of symbols/words
 - Can people see what you have drawn while you're talking? Position yourself so people can see the whiteboard 👀
 
-#### Ask Questions
+#### Make it Interactive
 A great way to keep people engaged and to also help you when you're stuck is to ask questions. 
 
 Not sure what the symbol for a lambda function is? You can ask, "does anyone know the best symbol for a lambda function?". This is also a good way to all agree on a symbol that may not have been obvious if you came up with one by yourself.
