@@ -20,27 +20,26 @@ What are the tools for whiteboarding? Whiteboard and markers. For your whiteboar
 
 To make things more interactive, you can always incorporate sticky notes. The use of both whiteboard and sticky notes can be quite effective!
 
+![Tools](images/tools.jpg)
+
+
 #### Plan
 Planning what you're going to put on the whiteboard can be really useful for yourself and the audience. For example, you're about to draw a cloud network diagram for a web app that has a database, maybe you want to write a list of the components of your network. You can even use this as a checklist to make sure everything is present and accounted for. Talking out your plan can also act as a guage of whether you're on the right track (good for interviews) and sets expectations (good for meetings).
-
-EXAMPLE
 
 
 #### Handwriting
 Work out what style of hand writing works best for you. Whiteboards don't act the same as a pen and paper. Writing in block letters is clearer than cursive. Remember that sometimes we take pictures of whiteboard discussions to reference later - so they need to be legible. 
 
-![Block letters](images/blockletters.jpg)
+![Block letters](images/block_letters.jpg)
 
-Handwriting is terrible? Use more images to demonstrate what you're trying to get across eg. instead of writing 'database', maybe draw the symbol for a data base:
-
-
-EXAMPLE
+Handwriting is terrible? Use more images to demonstrate what you're trying to get across eg. instead of writing 'database', maybe draw the symbol for a data base (see below)
 
 #### Spacing
 Be aware of the space you have to work with. If you're drawing a tech stack, do you have enough space to draw out each component vertically ↕️ ? Could you try horizontial ↔️ ? You might need to have a rough idea of how many layers/components you're planning to draw.
 Have you left some space for some surprises to be added (external dependencies outside the stack)?
 
-EXAMPLE
+![Spacing](images/spacing_techstack.jpg)
+
 
 #### Use of Words vs Symbols
 Do you find yourself writing a lot of words? Could some of this be substituted for symbols or acroynms? Any commonly used acroynms and their meaning can be documented in the corner for people to reference. This is about knowing your audience.
@@ -49,13 +48,14 @@ Try and keep your symbols simple and consistent. This means you can draw them qu
 
 Here are some helpful symbols that you can use in a tech stack or cloud network diagram, some are specific to AWS.
 
-Database
-VPC/Subnet
-'The Internet'
-Lambda
-User
+![lambda](images/lambda.jpg)
 
-EXAMPLE
+![End User](images/end_user.jpg)
+
+![DB](images/database.jpg)
+
+![Internet](images/internet.jpg)
+
 
 #### Talk it through 
 Remember to talk through your thoughts as you are drawing. This can be hard to master, but here's some things to consider:
