@@ -47,10 +47,17 @@ CIDR stand for Classless Inter-Domain Routing
   
 CIDR is a shorthand method for representing a range of IP addresses.
 
+Here are some examples of IP Addresses:
+
+- 192.168.0.4
+- 13.34.16.191
+
 Here are some examples of CIDR Numbers:
 
 - 127.0.0.0/24 means the same as 127.0.0/24 and means from to 127.0.0.0 to 127.0.0.255
 - 14.0.0.0/8 means the same as 14/8 and means from to 14.0.0.0 to 14.255.255.255
+
+CIDRs look very much like IP Addresses but they _are not the same thing_.
 
 #### How does 14/8 mean 14.0.0.0 to 14.255.255.255?
 
