@@ -66,6 +66,13 @@ An IP number is made up of 32 'bits' in binary. What 32/8 means is:
 - the first 8 bits are fixed (in this case, the _14_).
 - the remaining 24 bits (32 minus 8) will be variable (in this case the last three sets of numbers, which can all be 0,1,2,3,.... up to 255).
 
+#### How does 127.0.0.0/24 mean 127.0.0.0 to 127.0.0.255?
+
+Similar to the above:
+
+- the first 24 bits are fixed (in this case, the _127.0.0_).
+- the remaining 8 bits (32 minus 24) will be variable (in this case the last single set of numbers, which can 0,1,2,3,.... up to 255).
+
 </p></details>
 
 <details><summary>What are Subnets?</summary><p>
