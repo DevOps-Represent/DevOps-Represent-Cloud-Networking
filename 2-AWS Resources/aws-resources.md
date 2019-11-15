@@ -16,7 +16,7 @@ Descriptions and Examples for the following AWS Resources:
 
 <details><summary>What is a VPC?</summary><p>
 
-### Here's a short list of areas in your career where good whiteboarding skills are really helpful:
+### VPC:
 ![VPC](images/vpc-icon.svg)
 - Virtual Private Cloud
 - Create a virtual networking environment
