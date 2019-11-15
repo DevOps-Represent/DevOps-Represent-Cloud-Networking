@@ -40,8 +40,22 @@ NOTE: Your free AWS account comes with a default VPC and we’re going to create
 
 
 <details><summary>What is a CIDR Range?</summary><p>
+### CIDR:
+CIDR stand for Classless Inter-Domain Routing
+  
+CIDR is a shorthand method for representing a range of IP addresses.
 
-Pending Input
+Here are some examples of CIDR Numbers:
+
+- 127.0.0.0/24 means the same as 127.0.0/24 and means from to 127.0.0.0 to 127.0.0.255
+- 14.0.0.0/8 means the same as 14/8 and means from to 14.0.0.0 to 14.255.255.255
+
+#### How does 14/8 mean 14.0.0.0 to 14.255.255.255?
+
+An IP number is made up of 32 'bits' in binary. What 32/8 means is:
+
+- the first 8 bits are fixed (in this case, the _14_).
+- the remaining 24 bits (32 minus 8) will be variable (in this case the last three sets of numbers, which can all be 0,1,2,3,.... up to 255).
 
 </p></details>
 
