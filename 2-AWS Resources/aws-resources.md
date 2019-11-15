@@ -40,7 +40,9 @@ NOTE: Your free AWS account comes with a default VPC and we’re going to create
 
 
 <details><summary>What is a CIDR Range?</summary><p>
+  
 ### CIDR:
+
 CIDR stand for Classless Inter-Domain Routing
   
 CIDR is a shorthand method for representing a range of IP addresses.
