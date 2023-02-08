@@ -1,6 +1,6 @@
-# DevOps-Girls-Cloud-Networking
+# DevOps-Represent-Cloud-Networking
 
-DevOps Girls with the massive support from SEEK are hosting a day-long bootcamp to explore Cloud Networking in AWS!
+DevOps Represent with the massive support from SEEK are hosting a day-long bootcamp to explore Cloud Networking in AWS!
 
 <details><summary>Who would benefit from this bootcamp?</summary><p>
 
